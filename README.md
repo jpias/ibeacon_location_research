@@ -39,6 +39,8 @@ Links and notes for ibeacon indoor location
 * Difference between Kalaman and Particle filter - http://stats.stackexchange.com/questions/2149/what-is-the-difference-between-a-particle-filter-sequential-monte-carlo-and-a
 * A Precise Indoor Localization Approach based on 
 Particle Filter and Dynamic Exclusion Techniques - http://www.macrothink.org/journal/index.php/npa/article/viewFile/3717/3396
+* Particle filters and their applications - http://web.mit.edu/16.412j/www/html/Advanced%20lectures/Slides/Hsaio_plinval_miller_ParticleFiltersPrint.pdf
+* Cursera Artificial Intelligence for Robotics (the course is paid, now  was free in 2012 so maybe it can be still found somwhere)- https://www.udacity.com/course/cs373 
 
 ##Math for particle filters
 * Generating Normal (Gaussian) Distributed Random Numbers - http://www.protonfish.com/random.shtml
