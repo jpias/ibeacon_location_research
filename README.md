@@ -28,8 +28,14 @@ Links and notes for ibeacon indoor location
 * Indoor wireless navigation - http://www.egr.msu.edu/classes/ece480/capstone/spring11/group02/index.html
 
 ##Particle filters
+* Particle filter for iBeacon slides - http://blog.andrewcraze.com/2013/12/19/ibeacons-particle-filters-and-cocoaheads/
+** code -  https://bitbucket.org/codeswell/ibeacon-localization/src
+** cocoapod -http://blog.andrewcraze.com/2014/02/27/cdsparticlefilter-available/
 * Particle filters vs. simple trilateration - http://forums.udacity.com/questions/1014635/particle-filters-vs-simple-triangulation
 * "Continuous location and direction estimation with multiple sensors using particle ﬁltering" - http://elib.dlr.de/44240/1/mfi06-particle-final.pdf
+* Online simulation - https://www.cs.utexas.edu/~teammco/misc/particle_filter/
+* Pertilce filter for beacons - http://dsp.stackexchange.com/questions/9993/how-to-enhance-pedestrian-dead-reckoning-using-particle-filter
 
 ##Math for particle filters
 * Generating Normal (Gaussian) Distributed Random Numbers - http://www.protonfish.com/random.shtml
+* Probablity density function - https://www.khanacademy.org/math/probability/random-variables-topic/random_variables_prob_dist/v/probability-density-functions
