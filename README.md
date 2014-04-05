@@ -3,10 +3,16 @@
 
 Links and notes for ibeacon indoor location
 
+
+##General links
+* Bluetooth Indoor Positioning - http://tam.unige.ch/assets/documents/masters/bekkelien/Bekkelien_Master_Thesis.pdf
+* 
+
 ##Trilatertion 
 
 * Trilateration math -  http://gis.stackexchange.com/questions/66/trilateration-using-3-latitude-and-longitude-points-and-3-distances
 * Trilateration for more than 3 points that do not intersect at one point, nonlinear optimization - http://gis.stackexchange.com/questions/40660/trilateration-algorithm-for-n-amount-of-points
+* Trilateration math, precision discussion - http://stackoverflow.com/questions/20332856/triangulate-example-for-ibeacons
 * 
 
 ##Distance calculation
@@ -18,6 +24,7 @@ Links and notes for ibeacon indoor location
 ##Sensor fusion
 * How to detect walking with Android accelerometer - http://stackoverflow.com/questions/4993993/how-to-detect-walking-with-android-accelerometer
 * WIFI How to improve accuracy of indoor positioning? http://stackoverflow.com/questions/12098122/how-to-improve-accuracy-of-indoor-positioning
+* Indoor wireless navigation - http://www.egr.msu.edu/classes/ece480/capstone/spring11/group02/index.html
 
 ##Particle filters
 * "Continuous location and direction estimation with multiple sensors using particle ﬁltering" - http://elib.dlr.de/44240/1/mfi06-particle-final.pdf
